@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\bin\Debug\net6.0\AssBillManagement.exe
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\bin\Debug\net6.0\AssBillManagement.deps.json
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\bin\Debug\net6.0\AssBillManagement.runtimeconfig.json
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\bin\Debug\net6.0\AssBillManagement.dll
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\bin\Debug\net6.0\AssBillManagement.pdb
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\obj\Debug\net6.0\AssBillManagement.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\obj\Debug\net6.0\AssBillManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\obj\Debug\net6.0\AssBillManagement.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\obj\Debug\net6.0\AssBillManagement.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\obj\Debug\net6.0\AssBillManagement.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\obj\Debug\net6.0\AssBillManagement.dll
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\obj\Debug\net6.0\refint\AssBillManagement.dll
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\obj\Debug\net6.0\AssBillManagement.pdb
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\obj\Debug\net6.0\AssBillManagement.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Máy tính\Ass_Lo01_Lo02\BillManagement\AssBillManagement\obj\Debug\net6.0\ref\AssBillManagement.dll
